@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tex_name">
+        <item>Finance</item>
+        <item>Tech. questions</item>
+        <item>Another</item>
+    </string-array>
+</resources>

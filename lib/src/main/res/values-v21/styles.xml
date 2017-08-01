@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/backgroundColor</item>
+        <item name="android:actionButtonStyle">@style/MyActionButtonStyle</item>
+
+        <item name="android:windowContentTransitions" tools:targetApi="lollipop">true</item>
+        <!-- enable overlapping of exiting and entering activities-->
+        <item name="android:windowAllowEnterTransitionOverlap" tools:targetApi="lollipop">true
+        </item>
+        <item name="android:windowAllowReturnTransitionOverlap" tools:targetApi="lollipop">true
+        </item>
+        <item name="android:windowSharedElementEnterTransition" tools:targetApi="lollipop">
+            @transition/shared_element_transition
+        </item>
+    </style>
+    <style name="CircularProgress" parent="Theme.AppCompat.Light">
+        <item name="colorAccent">@color/colorProgressBar</item>
+    </style>
+</resources>

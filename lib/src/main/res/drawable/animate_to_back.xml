@@ -1,0 +1,53 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="24"
+            android:viewportHeight="24"
+            android:alpha="1">
+            <group android:name="group_2">
+                <group android:name="group_1">
+                    <path
+                        android:name="path"
+                        android:pathData="@string/ic_back"/>
+                </group>
+                <group android:name="group">
+                    <path
+                        android:name="path_1"
+                        android:pathData="@string/ic_menu"
+                        android:fillColor="@color/colorMenuIcon"/>
+                </group>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="path_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path_1"
+                android:propertyName="pathData"
+                android:duration="300"
+                android:valueFrom="@string/ic_back"
+                android:valueTo="@string/ic_menu"
+                android:valueType="pathType"
+                android:interpolator="@android:anim/overshoot_interpolator"/>
+        </aapt:attr>
+    </target>
+    <target android:name="path">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                xmlns:android="http://schemas.android.com/apk/res/android"
+                android:name="path"
+                android:propertyName="pathData"
+                android:duration="300"
+                android:valueFrom="@string/ic_back"
+                android:valueTo="@string/ic_menu"
+                android:valueType="pathType"
+                android:interpolator="@android:anim/accelerate_decelerate_interpolator"/>
+        </aapt:attr>
+    </target>
+</animated-vector>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/menu/app_bar.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/bundles/debug/res/menu/app_bar.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/menu/navigation.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/bundles/debug/res/menu/navigation.xml"
+    }
+]

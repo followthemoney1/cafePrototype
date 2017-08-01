@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Gloss cafe</string>
+    <string name="action_settings">icon_settings</string>
+    <string name="action_favorite">icon_favorite</string>
+    <string name="open_menu">menu</string>
+    <string name="vse">All</string>
+    <string name="nav_home">Main</string>
+    <string name="nav_about">About us</string>
+    <string name="nav_share">Share with friends</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_support">Technical support</string>
+    <string name="nav_exit">Exit</string>
+    <string name="nav_call">Reserve a table</string>
+
+    <string name="title_activity_settings">Settings</string>
+    <string name="send_to">Share</string>
+    <string name="google_auth_string_api">1049641365419-rrckru8jqs6jg12sgfo89fj3ml6g3aa3.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1178002375642460</string>
+    <integer name="com_vk_sdk_AppId">5957966</integer>
+    <string name="map_key">AIzaSyDxmjQbT6hd9-jF98xYak3BqW-mQpGZuSI</string>
+
+    <string name="compose_shortcut_short_label1">Order a table</string>
+    <string name="compose_shortcut_long_label1">Reserve a table</string>
+    <string name="compose_disabled_message1">l 3 </string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="_you_tel">Your number</string>
+    <string name="last_name">Last name</string>
+    <string name="first_name">First Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="pass">Pass</string>
+    <string name="promo_code">Promo code</string>
+    <string name="shortcut_label">shortcut</string>
+    <string name="calc_string">Enter the amount you spent:</string>
+
+    <string name="find_us_on_map">FIND US ON MAP</string>
+    <string name="our_site">OUR SITE</string>
+    <string name="facebook_page">Visit our Facebook page</string>
+    <string name="about_us">About us</string>
+    <string name="about_us_full">_</string>
+    <string name="accept">CONFIRM</string>
+    <string name="your_balance">You will fund your account at:</string>
+    <string name="call">CALL</string>
+    <string name="e_mail_tv">Your E-Mail for account recovery</string>
+    <string name="last_name_tv">Your surname</string>
+    <string name="number_tv">Your phone number</string>
+    <string name="change_pass_tv">Change pass</string>
+    <string name="save_btn">SAVE</string>
+    <string name="buy_btn">BUY</string>
+    <string name="podrobno">FULL DESCRIPTION</string>
+    <string name="your_promo_code">Your promo code:</string>
+    <string name="you_promo_code_shre">Your promo code</string>
+    <string name="share_you_promo_with_friends">Share your promo code with friends</string>
+    <string name="share_with_friends">Share with friends</string>
+    <string name="share_friends_tv">Recommend us to your friends and earn points</string>
+    <string name="_15">+15</string>
+    <string name="you_name_tehnical_sup">You name:</string>
+    <string name="msg_">Message subject</string>
+    <string name="you_massege">You message</string>
+    <string name="send">Send</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="next">NEXT</string>
+    <string name="e_mail_tv_login">Email</string>
+    <string name="pass_tv_login">Pass</string>
+    <string name="login_btn">LOGIN</string>
+    <string name="login_with">Sign in through:</string>
+    <string name="forgot_the">Lost your</string>
+    <string name="pass_login_tv">PASS</string>
+    <string name="_vopros">\?</string>
+    <string name="karta_postoyannogo_gostia">Permanent guest card</string>
+    <string name="show_you_card_tv">Show your card and get points</string>
+    <string name="pass_before">Enter old password.</string>
+    <string name="pass_tv_change">Pass</string>
+    <string name="new_pass">Enter a new password.</string>
+    <string name="zakazat_stolik">Order a table</string>
+    <string name="overide_table">Reserve a table</string>
+    <string name="tema_soobwenia">Message subject</string>
+    <string name="no_acc">No account yet?</string>
+    <string name="registration">Registration</string>
+    <string name="please_write_your_e_mail_below">Please write your E-mail below</string>
+    <string name="retrieve">RETRIEVE</string>
+    <string name="e_mail_your">You E-Mail</string>
+    <string name="your_pass_tv">You pass</string>
+    <string name="registration_btn">REGISTRATION</string>
+
+    <string name="transition_products">transition_products</string>
+    <string name="transition_products_text">transition_products_text</string>
+    <string name="transition_products_line">transition_products_line</string>
+
+    <string name="ic_menu">M 3 18 L 21 18 L 21 16 L 3 16 L 3 18 Z M 3 13 L 21 13 L 21 11 L 3 11 L 3 13 Z M 3 6 L 3 8 L 21 8 L 21 6 L 3 6 Z</string>
+    <string name="ic_back">M 2.8 12.402 L 11.468 19.174 L 12.699 17.598 L 4.031 10.826 L 2.8 12.402 Z M 3 13 L 21 13 L 21 11 L 3 11 L 3 13 Z M 2.8 11.472 L 4.031 13.048 L 12.699 6.276 L 11.468 4.7 L 2.8 11.472 Z</string>
+</resources>

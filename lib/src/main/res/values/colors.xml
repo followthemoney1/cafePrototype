@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffca08</color>
+    <color name="colorPrimaryDark">#e5b200</color>
+    <color name="colorPrimaryWhite">#f9d246</color>
+    <color name="colorAccent">#ffca08</color>
+    <color name="backgroundColor">#212121 </color>
+    <color name="textColorHint">#9E9E9E</color>
+    <color name="textColorLabel">#EEEEEE</color>
+    <color name="lineColorCardGuess">#282828</color>
+    <color name="lineColornumbers">#343434</color>
+    <color name="colorProgressBar">#ffca08</color>
+    <color name="colorMenuIcon">#ffca08</color>
+</resources>

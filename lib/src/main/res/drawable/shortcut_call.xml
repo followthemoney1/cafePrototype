@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2016 Google Inc.
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+       http://www.apache.org/licenses/LICENSE-2.0
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <path
+        android:pathData="M -1 -1 H 581 V 401 H -1 V -1 Z" />
+    <path
+        android:fillColor="@color/colorAccent"
+        android:pathData="M 11.750003 1.500093 C 17.4108719801 1.500093 21.999913 6.08913401986 21.999913 11.750003 C 21.999913 17.4108719801 17.4108719801 21.999913 11.750003 21.999913 C 6.08913401986 21.999913 1.500093 17.4108719801 1.500093 11.750003 C 1.500093 6.08913401986 6.08913401986 1.500093 11.750003 1.500093 Z" />
+    <path
+        android:strokeWidth="1"
+        android:pathData="M5.666582,5.666582l12.166841,0l0,12.166841l-12.166841,0l0,-12.166841z" />
+    <path
+        android:fillColor="#000000"
+        android:strokeWidth="1"
+        android:pathData="M9.022602,11.136591c0.73001,1.434673 1.906138,2.605732
+3.340812,3.340812l1.115294,-1.115294c0.136877,-0.136877 0.339658,-0.182503
+0.517091,-0.121668c0.567786,0.187572 1.181197,0.288962
+1.809818,0.288962c0.278823,0 0.506952,0.228128
+0.506952,0.506952l0,1.769261c0,0.278823 -0.228128,0.506952
+-0.506952,0.506952c-4.760277,0 -8.618179,-3.857903
+-8.618179,-8.618179c0,-0.278823 0.228128,-0.506952
+0.506952,-0.506952l1.774331,0c0.278823,0 0.506952,0.228128
+0.506952,0.506952c0,0.63369 0.10139,1.242032 0.288962,1.809818c0.055765,0.177433
+0.015209,0.375144 -0.126738,0.517091l-1.115294,1.115294z" />
+
+</vector>

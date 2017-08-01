@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/mipmap-xxhdpi-v4/ic_launcher_round.png",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/bundles/debug/res/mipmap-xxhdpi-v4/ic_launcher_round.png"
+    }
+]

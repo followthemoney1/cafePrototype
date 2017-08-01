@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/card_guess_listview_root"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:orientation="vertical">
+
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerInParent="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center_horizontal"
+        android:foregroundGravity="center_horizontal"
+        android:gravity="center_horizontal">
+
+        <RelativeLayout
+            android:id="@+id/next"
+            android:layout_width="match_parent"
+            android:layout_height="?attr/actionBarSize"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/card_guess_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_gravity="left"
+                android:foregroundGravity="left"
+                android:paddingBottom="8dp"
+                android:paddingLeft="12dp"
+                android:paddingRight="12dp"
+                android:paddingTop="13dp"
+                android:src="@drawable/ic_arrow_back_white_24dp"
+                android:tint="@color/colorAccent" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/next"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:padding="26dp"
+            android:text="@string/calc_string"
+            android:textColor="@color/textColorLabel"
+            android:textSize="18sp"
+            android:visibility="visible" />
+
+        <RelativeLayout
+            android:id="@+id/calc_layout"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:layout_below="@+id/textView11"
+            android:background="@color/lineColornumbers"
+            android:gravity="right"
+            android:orientation="horizontal"
+            android:visibility="visible">
+
+            <TextView
+                android:id="@+id/calc_main_textView"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:maxLength="10"
+                android:paddingLeft="14dp"
+                android:paddingRight="20dp"
+                android:paddingTop="14dp"
+                android:text="0"
+                android:textAlignment="center"
+                android:textColor="@color/colorAccent"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:visibility="visible" />
+
+            <ImageView
+                android:id="@+id/icon_back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/calc_main_textView"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="18dp"
+                android:layout_weight="1"
+                android:src="@drawable/ic_backspace_white_24dp" />
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:id="@+id/numbers"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_above="@+id/next_rl"
+            android:layout_below="@+id/calc_layout"
+            android:background="@color/lineColorCardGuess"
+            android:foregroundGravity="center_horizontal"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/textView_card_number1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_1"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_2"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_3"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/textView_card_number4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_4"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_5"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number6"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_6"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:foregroundGravity="center"
+                android:gravity="center"
+
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/textView_card_number7"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_7"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number8"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_8"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number9"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_9"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:padding="8dp">
+
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:foregroundGravity="center"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView_card_number0"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:text="@string/_0"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/textView20"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:gravity="center"
+                    android:onClick="onClick"
+                    android:textColor="@color/textColorLabel"
+                    android:textSize="24sp"
+                    android:textStyle="bold" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <RelativeLayout
+            android:id="@+id/next_rl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:background="@color/colorAccent"
+            android:gravity="center"
+            android:padding="12dp">
+
+            <TextView
+                android:id="@+id/next_tv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_weight="1"
+                android:foregroundGravity="center"
+                android:gravity="center"
+                android:text="@string/next"
+                android:textColor="@color/backgroundColor"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout>

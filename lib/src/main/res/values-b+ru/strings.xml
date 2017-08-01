@@ -1,0 +1,175 @@
+<resources>
+
+    <string name="google_auth_string_api">241637294201-t4p0d2nk1jfvq7l2pa246i8biedm52c3.apps.googleusercontent.com</string>
+    <string name="facebook_app_id">1178002375642460</string>
+    <integer name="com_vk_sdk_AppId">5957966</integer>
+    <string name="map_key">AIzaSyDxmjQbT6hd9-jF98xYak3BqW-mQpGZuSI</string>
+
+    <string name="app_name">Gloss cafe</string>
+    <string name="action_settings">icon_settings</string>
+    <string name="action_favorite">icon_favorite</string>
+    <string name="open_menu">menu</string>
+    <string name="vse">Все</string>
+    <string name="nav_home">Главная</string>
+    <string name="nav_about">О нас</string>
+    <string name="nav_share">Поделиться с друзьями</string>
+    <string name="nav_settings">Настройки</string>
+    <string name="nav_support">Техническая поддержка</string>
+    <string name="nav_exit">Выйти</string>
+    <string name="nav_call">Заказать столик</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="send_to">Поделиться</string>
+
+    <string name="compose_shortcut_short_label1"> Заказать столик</string>
+    <string name="compose_shortcut_long_label1">Забронировать столик </string>
+    <string name="compose_disabled_message1">l 3 </string>
+
+
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+    <string name="_you_tel">Ваш телефон</string>
+    <string name="last_name">Фамилия</string>
+    <string name="first_name">Имя</string>
+    <string name="e_mail">Электронный адрес</string>
+    <string name="pass">Пароль</string>
+    <string name="promo_code">Промо код</string>
+    <string name="shortcut_label">shortcut</string>
+    <string name="calc_string">Введите сумму, которую вы потратили:</string>
+
+    <string name="find_us_on_map">НАЙДИТЕ НАС НА КАРТЕ</string>
+    <string name="our_site">НАШ САЙТ</string>
+    <string name="facebook_page">Посетите нашу страницу в Facebook</string>
+    <string name="about_us">O нас</string>
+    <string name="about_us_full">Наш ресторан сочетает в себе лучшие традиции итальянской, средиземноморской и европейской кухни. Его главными преимуществами являются вкусная кухня, отличный сервис и уютная атмосфера, которая царит в залах нашего заведения. За счет доступного уровня цен мы занимаем почетное место среди лучших ресторанов города. Основные направления деятельности нашего ресторана – это проведение свадеб, банкетов и корпоративов. Все мероприятия проходят под живую музыку в красиво оформленных, просторных залах.</string>
+    <string name="accept">ПОДТВЕРДИТЬ</string>
+    <string name="your_balance">Вы пополните ваш счет на:</string>
+    <string name="call">ПОЗВОНИТЬ</string>
+    <string name="e_mail_tv">Ваш E-Mail для восстановления аккаунта</string>
+    <string name="last_name_tv">Ваша фамилия</string>
+    <string name="number_tv">Ваш телефон</string>
+    <string name="change_pass_tv">Изменить пароль</string>
+    <string name="save_btn">СОХРАНИТЬ</string>
+    <string name="buy_btn">КУПИТЬ</string>
+    <string name="podrobno">ПОДРОБНО</string>
+    <string name="your_promo_code">Ваш промо код:</string>
+    <string name="you_promo_code_shre">Ваш промо-код</string>
+    <string name="share_you_promo_with_friends">Поделитесь своим промо-кодом с друзьями</string>
+    <string name="share_with_friends">Поделиться с друзьями</string>
+    <string name="share_friends_tv">Рекомендуйте нас своим друзьям и получайте баллы</string>
+    <string name="_15">+15</string>
+    <string name="you_name_tehnical_sup">Ваше имя:</string>
+    <string name="msg_">Тема сообщения</string>
+    <string name="you_massege">Ваше сообщение</string>
+    <string name="send">Отправить</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+    <string name="_0">0</string>
+    <string name="next">ДАЛЕЕ</string>
+    <string name="e_mail_tv_login">Электронная почта</string>
+    <string name="pass_tv_login">Пароль</string>
+    <string name="login_btn">ЛОГИН</string>
+    <string name="login_with">Войдите через:</string>
+    <string name="forgot_the">Забыли свой</string>
+    <string name="pass_login_tv">ПАРОЛЬ</string>
+    <string name="_vopros">\?</string>
+    <string name="karta_postoyannogo_gostia">Карта постоянного гостя</string>
+    <string name="show_you_card_tv">Предьявите карту и получите баллы</string>
+    <string name="pass_before">Введите старый пароль.</string>
+    <string name="pass_tv_change">Пароль</string>
+    <string name="new_pass">Введите новый пароль.</string>
+    <string name="zakazat_stolik">Заказать столик</string>
+    <string name="overide_table">Забронировать столик</string>
+    <string name="tema_soobwenia">Тема сообщения</string>
+    <string name="no_acc">Еще нет аккаунта?</string>
+    <string name="registration">Регистрация</string>
+    <string name="please_write_your_e_mail_below">Пожалуйста введите E-mail ниже</string>
+    <string name="retrieve">ВОССТАНОВИТЬ</string>
+    <string name="e_mail_your">Ваш E-Mail</string>
+    <string name="your_pass_tv">Ваш пароль</string>
+    <string name="registration_btn">РЕГИСТРАЦИЯ</string>
+
+    <!-- Strings related to Settings -->
+
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="transition_products">transition_products</string>
+    <string name="transition_products_text">transition_products_text</string>
+    <string name="transition_products_line">transition_products_line</string>
+
+    <string name="ic_menu">M 3 18 L 21 18 L 21 16 L 3 16 L 3 18 Z M 3 13 L 21 13 L 21 11 L 3 11 L 3 13 Z M 3 6 L 3 8 L 21 8 L 21 6 L 3 6 Z</string>
+    <string name="ic_back">M 2.8 12.402 L 11.468 19.174 L 12.699 17.598 L 4.031 10.826 L 2.8 12.402 Z M 3 13 L 21 13 L 21 11 L 3 11 L 3 13 Z M 2.8 11.472 L 4.031 13.048 L 12.699 6.276 L 11.468 4.7 L 2.8 11.472 Z</string>
+</resources>

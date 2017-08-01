@@ -1,0 +1,374 @@
+[
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_share_with_friends_second.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_share_with_friends_second.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/recive_email_fragment.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/recive_email_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/autorization_fragment.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/autorization_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/fragment_call.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/fragment_call.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/call_number_fragment.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/call_number_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/hint_row_item.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/hint_row_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_loading_screen.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_loading_screen.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_settings.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_fulldescription_gifts.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_fulldescription_gifts.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_tehnical_support.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_tehnical_support.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/card_guesst_fragment.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/card_guesst_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/dialog_change_pass.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/dialog_change_pass.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_call.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_call.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/spinner_text_clicked.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/spinner_text_clicked.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/vk_open_auth_dialog.xml",
+        "source": "/Users/leaditteam/.android/build-cache/a771020ae07ad6b9f859d65ad289922943571ffe/output/res/layout/vk_open_auth_dialog.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_fulldescription_news.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_fulldescription_news.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_change_personal_data.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_change_personal_data.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/main_products_activity.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/main_products_activity.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/vk_captcha_dialog.xml",
+        "source": "/Users/leaditteam/.android/build-cache/a771020ae07ad6b9f859d65ad289922943571ffe/output/res/layout/vk_captcha_dialog.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_share_with_friends_start.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_share_with_friends_start.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/fragment_product_gift.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/fragment_product_gift.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_products_gifts.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_products_gifts.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_add_to_balance.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_add_to_balance.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_map.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_map.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/acttivity_card_guess.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/acttivity_card_guess.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/toolbar.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/toolbar.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/login_activity.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/login_activity.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/registration_activity.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/registration_activity.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/activity_about.xml",
+        "source": "/Users/leaditteam/Desktop/androidwithlib/android/lib/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/leaditteam/.android/build-cache/6e205d923be037cb6c8dcfe27aefbe5e256dd36d/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/leaditteam/.android/build-cache/123d9e04c670d96dfcd7e6831cac497f3d473fc8/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout/abc_action_bar_up_container.xml"
+    }
+]

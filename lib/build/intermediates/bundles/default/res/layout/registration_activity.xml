@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/backgroundColor"
+    android:fillViewport="true"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <RelativeLayout
+            android:id="@+id/r_l"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:paddingTop="8dp">
+
+            <LinearLayout
+                android:id="@+id/r_phone"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/r_lname"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:id="@+id/textView5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/_you_tel"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_phone_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:ems="10"
+                    android:hint="@string/_you_tel"
+                    android:inputType="phone"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r_lname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/r_fname"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:id="@+id/textView2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/last_name_tv"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_lastname_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:ems="10"
+                    android:hint="@string/last_name"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r_fname"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:id="@+id/textView3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/first_name"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_firstname_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+
+                    android:ems="10"
+                    android:hint="@string/first_name"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null"
+                    android:textIsSelectable="true" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r_emeil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/r_phone"
+                android:orientation="vertical"
+                android:padding="14dp">
+
+                <TextView
+                    android:id="@+id/textView"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/e_mail_your"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_email_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:ems="10"
+                    android:hint="@string/e_mail"
+                    android:inputType="textPersonName"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r_t"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/r_emeil"
+                android:orientation="vertical"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp"
+                android:paddingTop="14dp">
+
+                <TextView
+                    android:id="@+id/textView4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/your_pass_tv"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_pass_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:ems="10"
+                    android:hint="@string/pass"
+                    android:inputType="textPersonName"
+                    android:password="true"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/r_promo"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/r_t"
+                android:orientation="vertical"
+                android:paddingBottom="46dp"
+                android:paddingLeft="14dp"
+                android:paddingRight="14dp"
+                android:paddingTop="14dp">
+
+                <TextView
+                    android:id="@+id/textViewp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:paddingBottom="6dp"
+                    android:paddingLeft="4dp"
+                    android:text="@string/promo_code"
+                    android:textColor="@color/textColorLabel" />
+
+                <EditText
+                    android:id="@+id/editText_promo_registrationAct"
+                    style="@style/EditTextColorCustom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="@color/colorAccent"
+                    android:ems="10"
+                    android:hint="@string/promo_code"
+                    android:inputType="number"
+                    android:textColor="@color/textColorLabel"
+                    android:textColorHint="@color/textColorHint"
+                    android:textCursorDrawable="@null" />
+
+            </LinearLayout>
+
+        </RelativeLayout>
+
+
+        <FrameLayout
+            android:id="@+id/registration_frameLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@color/colorAccent"
+            android:foregroundGravity="bottom">
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:padding="16dp"
+                android:text="@string/registration_btn"
+                android:textColor="@color/backgroundColor"
+                android:textStyle="bold" />
+        </FrameLayout>
+
+    </RelativeLayout>
+</ScrollView>

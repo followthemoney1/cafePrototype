@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/leaditteam/Desktop/androidwithlib/android/lib/build/intermediates/res/merged/androidTest/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/leaditteam/.android/build-cache/801a9b77b41da766142feae886315be0875d7d0a/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
